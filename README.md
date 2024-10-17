@@ -7,7 +7,7 @@ To implement simple linear regression using sklearn.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm 
 1. Get the independent variable X and dependent variable Y by reading the dataset.
 2. Split the data into training and test data.
 3. Import the linear regression and fit the model with the training data.
