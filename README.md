@@ -76,11 +76,16 @@ print("RMSE= ",rmse)
 
 ![Screenshot 2024-10-17 100530](https://github.com/user-attachments/assets/eddebb91-5622-4edd-a318-501a8b5f9522)
 
+![Screenshot 2024-10-17 100536](https://github.com/user-attachments/assets/098fd8ff-5fda-40be-ab5d-8609f9d13667)
+
+
 ![Screenshot 2024-10-17 100544](https://github.com/user-attachments/assets/7e95f678-a9e5-4a4c-a3d1-c80a93616d2a)
 
 ![Screenshot 2024-10-17 100606](https://github.com/user-attachments/assets/8a739176-aad1-43dc-a63f-79568d486ccb)
 
-![Uploading Screenshot 2024-10-17 100624.png…]()
+
+![Screenshot 2024-10-17 100624](https://github.com/user-attachments/assets/ea717125-897d-46b1-bd75-5a977d4f31b6)
+
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
